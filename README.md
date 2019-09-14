@@ -1,1 +1,3 @@
 # shotter
+
+A demo project.
